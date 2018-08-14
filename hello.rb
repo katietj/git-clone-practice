@@ -1,2 +1,2 @@
 puts "Hello Git!"
-puts "This is a mistake!"
+puts "More Git fun!!!"
